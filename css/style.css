@@ -467,6 +467,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Intro Section
 --------------------------------------------------------------*/
 
+#toastmasters-international{
+    width: 100%;
+    height: auto;
+}
 #intro {
   width: 100%;
   height: 100vh;
